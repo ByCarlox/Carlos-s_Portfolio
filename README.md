@@ -31,7 +31,7 @@ Now for the categorical variables we can apreciate that the overal quality affec
 
 Correlation Chart 
 
-<img src="Images/corrchart.jpg" alt="drawing" width="500"/>
+<img src="Images/corrchart.jpg" alt="drawing" width="400"/>
 
 
 [Third proyect: Superstore Profit Dashboard](https://public.tableau.com/app/profile/carlos1863/viz/SuperstoreProfitDashboard_16655467540010/Dashboard1)
