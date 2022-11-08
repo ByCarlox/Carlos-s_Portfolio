@@ -1,6 +1,6 @@
 # Carlos's Porfolio
 
-[First Proyect: 1998-2021 Esports Analysis](https://github.com/ByCarlox/Esport-Analysis-1998-2021)
+## [First Proyect: 1998-2021 Esports Analysis](https://github.com/ByCarlox/Esport-Analysis-1998-2021)
 
 This is a proyect I made because I'm very curios about the Esports world and videogames in general.
 
@@ -15,7 +15,7 @@ The insights we can get from this datasets are:
 <img src="Images/Esports.png" alt="drawing" width="1000"/>
 
 
-[Second Proyect: House Price Analysis in USA](https://github.com/ByCarlox/House_Data_Analysis/blob/main/House_Data_Analysis.ipynb)
+## [Second Proyect: House Price Analysis in USA](https://github.com/ByCarlox/House_Data_Analysis/blob/main/House_Data_Analysis.ipynb)
 
 Here basically I perform an Analysis using the pandas library of Python in Orden to analyze the variables that decide the price of a House in USA
 
@@ -34,7 +34,7 @@ Correlation Chart
 <img src="Images/corrchart.jpg" alt="drawing" width="400"/>
 
 
-[Third proyect: Superstore Profit Dashboard](https://public.tableau.com/app/profile/carlos1863/viz/SuperstoreProfitDashboard_16655467540010/Dashboard1)
+## [Third proyect: Superstore Profit Dashboard](https://public.tableau.com/app/profile/carlos1863/viz/SuperstoreProfitDashboard_16655467540010/Dashboard1)
 
 This is a dashboard I made while I was learning how to usea Tableau
 
