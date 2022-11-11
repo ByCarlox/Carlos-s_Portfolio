@@ -38,4 +38,10 @@ Correlation Chart
 
 This is a dashboard I made while I was learning how to usea Tableau
 
-<img src="Images/Superstore.png" alt="drawing" width="1000"/>     
+<img src="Images/Superstore.png" alt="drawing" width="1000"/>    
+
+##[fourth proyect: AirBnB listings in Washingtong](https://public.tableau.com/app/profile/carlos1863/viz/AirBnBProyect/Dashboard1)
+
+This proyect was intend to visualice how profitable would be to adquire a property in certain locations of washington to listed as an AirBnB
+
+<img src="Images/AirBnB.png" alt="drawing" width="1000"/>  
