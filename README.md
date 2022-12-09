@@ -10,21 +10,21 @@ This report have to 3 pages:
 Here we show all the relevant data of the departament such as how many peaple have the company on service, the genres, how many peaple are duo to promotion or not, how the employees lie from de company and others general information
 
 
-<img src="images/Home.png" alt="drawing" width="400"/>
+<img src="Images/Home.png" alt="drawing" width="400"/>
 
 ## Action:
 
 In this page we show the datails of the employees that are duo for promotion and the employees that need to be retrenchment
 
 
-<img src="images/Action.png" alt="drawing" width="400"/>
+<img src="Images/Action.png" alt="drawing" width="400"/>
 
 ## Detail:
 
 The detail page shows all the metrics by departament in order to analyce the general situation of the company
 
 
-<img src="images/Detail.png" alt="drawing" width="400"/>
+<img src="Images/Detail.png" alt="drawing" width="400"/>
 
 ## [1998-2021 Esports Analysis](https://github.com/ByCarlox/Esport-Analysis-1998-2021)
 
